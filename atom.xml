@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Five Minutes to Tomorrow</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://tianyicui.net/"/>
+  <updated>2017-12-19T23:50:11.000Z</updated>
+  <id>http://tianyicui.net/</id>
+  
+  <author>
+    <name>Tyanne C</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tianyicui.net/2017/12/17/hello-world/"/>
+    <id>http://tianyicui.net/2017/12/17/hello-world/</id>
+    <published>2017-12-17T22:03:26.000Z</published>
+    <updated>2017-12-19T23:50:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Tyanne’s blog. This is my first post.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to Tyanne’s blog. This is my first post.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="About Blog" scheme="http://tianyicui.net/categories/About-Blog/"/>
+    
+    
+      <category term="hexo" scheme="http://tianyicui.net/tags/hexo/"/>
+    
+      <category term="next" scheme="http://tianyicui.net/tags/next/"/>
+    
+  </entry>
+  
+</feed>
