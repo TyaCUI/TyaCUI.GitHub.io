@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tianyicui.net/"/>
-  <updated>2017-12-19T23:50:11.000Z</updated>
+  <updated>2017-12-21T02:12:45.000Z</updated>
   <id>http://tianyicui.net/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my secret</title>
+    <link href="http://tianyicui.net/2017/12/20/my-secret/"/>
+    <id>http://tianyicui.net/2017/12/20/my-secret/</id>
+    <published>2017-12-21T01:33:38.000Z</published>
+    <updated>2017-12-21T02:12:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<link href="/style.css" rel="stylesheet" type="text/css"><script src="/crypto-js.js"></script><script src="/mcommon.js"></script><script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script> <div id="security"> <div> <div class="input-container"> <input type="password" class="form-control" id="pass" placeholder=" Please enter the password. "/> <label for="pass"> Please enter the password. </label> <div class="bottom-line"></div> </div> </div> </div> <div id="encrypt-blog" style="display:none"> U2FsdGVkX19cQDQuX2mWZWL318WyaKPeagxaV6rVRHzFprS6jkzqZZJUlT5RedNxAmDQdhfFNFZhc88t3TkCSaQQu5vURyqb0RVB9y7qetmvyzW3J4vC9zGnEmnMsST7 </div>]]></content>
+    
+    <summary type="html">
+    
+      Please enter the password to read.
+    
+    </summary>
+    
+    
+      <category term="-- my" scheme="http://tianyicui.net/tags/my/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

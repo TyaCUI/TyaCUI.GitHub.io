@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[my secret]]></title>
+    <url>%2F2017%2F12%2F20%2Fmy-secret%2F</url>
+    <content type="text"><![CDATA[Please enter the password. U2FsdGVkX19cQDQuX2mWZWL318WyaKPeagxaV6rVRHzFprS6jkzqZZJUlT5RedNxAmDQdhfFNFZhc88t3TkCSaQQu5vURyqb0RVB9y7qetmvyzW3J4vC9zGnEmnMsST7]]></content>
+      <tags>
+        <tag>-- my</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F12%2F17%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Tyanne’s blog. This is my first post.]]></content>
